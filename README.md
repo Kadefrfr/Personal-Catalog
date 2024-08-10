@@ -1,0 +1,1 @@
+This is a small program I coded while I was learning C. I’m not currently in the mood to provide instructions on how to use or install it, but the process is quite simple. Just take the file, compile it, set the appropriate permissions with chmod, and then run the executable.
